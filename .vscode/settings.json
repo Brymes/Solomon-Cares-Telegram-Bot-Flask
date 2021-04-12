@@ -1,0 +1,17 @@
+{
+	"python.linting.enabled": false,
+	"python.linting.pylintEnabled": true,
+	"python.linting.flake8Enabled": false,
+	"python.linting.pycodestyleEnabled": false,
+	"python.linting.banditEnabled": false,
+	"python.linting.mypyEnabled": false,
+	"python.autoComplete.extraPaths": [
+		"C:\\Users\\LIL-TIMS\\web\\Lib\\site-packages",
+		"C:\\Users\\LIL-TIMS\\web\\Scripts",
+		"C:\\Users\\LIL-TIMS\\ai\\Lib\\site-packages",
+		"C:\\Users\\LIL-TIMS\\ai\\Scripts",
+		"C:\\Users\\LIL-TIMS\\cyber\\Lib\\site-packages",
+		"C:\\Users\\LIL-TIMS\\cyber\\Scripts",
+		"C:\\Users\\LIL-TIMS\\kivy\\Lib\\site-packages",
+	]
+}
